@@ -55,7 +55,8 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
+![Screenshot 2023-12-30 102736](https://github.com/karthikkrishna16/Gaussian/assets/148514663/e2b1a21e-f38c-4aa6-a4f8-beb1cb29ec1f)
+
 
 
 ## Result:
